@@ -1,4 +1,4 @@
-# My All Project(Python,Excel,Power BI)
+# Python Project
 This is my first Git Repository.
 <br>
 Author - Vikas Jaiswal
