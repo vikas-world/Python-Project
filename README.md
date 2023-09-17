@@ -1,4 +1,4 @@
 # Python Project
-This is my first Git Repository.
+This is a Python end to end project.
 <br>
 Author - Vikas Jaiswal
